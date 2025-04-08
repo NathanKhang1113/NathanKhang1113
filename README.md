@@ -29,7 +29,7 @@ portfolio/
 </head>
 <body>
     <header>
-        <h1>John Doe</h1>
+        <h1>Nathan Khang </h1>
         <p><em>Web Developer</em></p>
     </header>
     <nav>
@@ -42,7 +42,7 @@ portfolio/
     <main>
         <section>
             <h2>Profile</h2>
-            <p><strong>Experienced developer</strong> with a passion for creating modern, user-friendly websites.</p>
+            <p><strong>Moderate developer</strong> with a passion for creating modern, user-friendly websites.</p>
         </section>
         <section>
             <h3>Skills</h3>
@@ -50,6 +50,7 @@ portfolio/
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
+                <li>Machine Operator</li>
             </ul>
         </section>
         <section>
@@ -57,23 +58,22 @@ portfolio/
             <table>
                 <caption>Work History</caption>
                 <tr><th>Company</th><th>Role</th><th>Years</th><th>Location</th></tr>
-                <tr><td>ABC Corp</td><td>Front-End Dev</td><td>2</td><td>New York</td></tr>
-                <tr><td>XYZ Ltd</td><td>UI Designer</td><td>1</td><td>Boston</td></tr>
-                <tr><td>123 Inc</td><td>Intern</td><td>0.5</td><td>Remote</td></tr>
+                <tr><td>Mack Molding</td><td>Machine Operator</td><td>1</td><td>North Carolina</td></tr>
+                <tr><td>Petco Sackner</td><td>Machine Operator</td><td>2</td><td>North Carolina</td></tr>  
             </table>
         </section>
         <hr>
         <section>
             <article>
                 <h4>Education</h4>
-                <p>B.S. in Computer Science, University of Technology</p>
+                <p>A.A in Business, Community College for Technology and Leadership</p>
             </article>
         </section>
         <br>
         <div id="date"></div>
     </main>
     <footer>
-        <p><span>Email:</span> john@example.com</p>
+        <p><span>Email:</span> Keejkhang136@gmail.com</p>
     </footer>
 </body>
 </html>
